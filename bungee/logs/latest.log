@@ -83,3 +83,19 @@
 [07:07:12] [Netty Worker IO Thread #1/INFO]: [BayerASSpirin] disconnected with: Proxy lost connection to server.
 [07:07:12] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:40412|BayerASSpirin] <-> DownstreamBridge <-> [lobby] has disconnected
 [07:07:13] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/SSELBMM/bungee/server-icon.png
+[07:11:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45516]: Connected via websocket
+[07:11:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45516]: Origin header is https://webclientadvanced.eagler-empire.com
+[07:11:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45516]: Logged in as 'BayerASSpirin'
+[07:11:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45516|BayerASSpirin] -> UpstreamBridge has connected
+[07:11:57] [Netty Worker IO Thread #1/INFO]: [BayerASSpirin|/[0:0:0:0:0:0:0:1%0]:45516] <-> ServerConnector [lobby] has connected
+[07:14:39] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35408]: Connected via websocket
+[07:14:39] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35408]: Origin header is https://webclientadvanced.eagler-empire.com
+[07:14:39] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35408]: Logged in as 'L__'
+[07:14:39] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35408|L__] -> UpstreamBridge has connected
+[07:14:39] [Netty Worker IO Thread #3/INFO]: [L__|/[0:0:0:0:0:0:0:1%0]:35408] <-> ServerConnector [lobby] has connected
+[07:16:19] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35408|L__] -> UpstreamBridge has disconnected
+[07:16:19] [Netty Worker IO Thread #3/INFO]: [L__] disconnected with: Proxy lost connection to server.
+[07:16:19] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:35408|L__] <-> DownstreamBridge <-> [lobby] has disconnected
+[07:20:40] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45516|BayerASSpirin] -> UpstreamBridge has disconnected
+[07:20:40] [Netty Worker IO Thread #1/INFO]: [BayerASSpirin] disconnected with: Proxy lost connection to server.
+[07:20:40] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45516|BayerASSpirin] <-> DownstreamBridge <-> [lobby] has disconnected

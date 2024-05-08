@@ -234,3 +234,13 @@
 [07:06:45] [Server thread/INFO]: BayerASSpirin[/[0:0:0:0:0:0:0:1]:50868] logged in with entity id 2493 at ([world]82.5, 66.0, 264.5)
 [07:07:12] [Server thread/INFO]: BayerASSpirin lost connection: Disconnected
 [07:07:12] [Server thread/INFO]: BayerASSpirin left the game.
+[07:11:57] [Thread-9/INFO]: UUID of player BayerASSpirin is e7cf4839-fb39-3ca0-8d11-84cdf56a3439
+[07:11:57] [Server thread/INFO]: BayerASSpirin[/[0:0:0:0:0:0:0:1]:38562] logged in with entity id 2621 at ([world]83.21197687201536, 68.0, 261.9674529197601)
+[07:14:39] [Thread-10/INFO]: UUID of player L__ is 09445744-11b6-33e2-8d51-59cd494382fb
+[07:14:39] [Server thread/INFO]: L__[/[0:0:0:0:0:0:0:1]:39974] logged in with entity id 2774 at ([world]92.5, 68.0, 257.5)
+[07:15:54] [Server thread/INFO]: L__ issued server command: //schematic
+[07:16:11] [Server thread/INFO]: L__ issued server command: /gamemode creative
+[07:16:19] [Server thread/INFO]: L__ lost connection: Disconnected
+[07:16:19] [Server thread/INFO]: L__ left the game.
+[07:20:40] [Server thread/INFO]: BayerASSpirin lost connection: Disconnected
+[07:20:40] [Server thread/INFO]: BayerASSpirin left the game.
