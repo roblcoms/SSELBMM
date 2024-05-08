@@ -19,7 +19,7 @@
 # homes.admin : Able to view, visit, set or remove homes of other players
 
 # Enable / disable the teleport countdown
-do-teleport-wait: true
+do-teleport-wait: false
 
 # The countdown before teleportation (in seconds)
 teleport-wait: 5
@@ -29,7 +29,7 @@ admin-bypass-wait: true
 
 # Maximum amount of homes
 # Users can bypass this with homes.bypasscap
-max-home-count: 5
+max-home-count: 10
 
 # Should setting a new home with the same name as an existing home overwrite the old home?
 # If set to false - you will have to delete the old home before setting the new home
